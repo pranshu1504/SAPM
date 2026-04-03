@@ -1,7 +1,7 @@
 # Portfolio Construction & Asset Pricing
 
 **Course:** Security Analysis & Portfolio Management (SAPM)  
-**Period:** April 2024 – March 2025 | **Benchmark:** Nifty 50 (`^NSEI`)
+**Benchmark:** Nifty 50 (`^NSEI`)
 
 ---
 
